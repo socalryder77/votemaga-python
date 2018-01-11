@@ -1,0 +1,6 @@
+.idea/
+crontab.log
+*.pyc
+livestream_watcher/livestream_data.txt
+praw.ini
+.git_old/
